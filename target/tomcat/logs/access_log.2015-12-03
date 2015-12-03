@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:06:12:17 +0000] "GET /webappstarter HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:10:23:06 +0000] "GET /webappstarter/hello HTTP/1.1" 200 45 http-bio-8080-exec-1 29
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:10:23:31 +0000] "GET /webappstarter HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:10:23:31 +0000] "GET /webappstarter/ HTTP/1.1" 200 78 http-bio-8080-exec-2 481
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:10:23:43 +0000] "GET /webappstarter HTTP/1.1" 302 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:10:23:43 +0000] "GET /webappstarter/ HTTP/1.1" 200 90 http-bio-8080-exec-4 33
+0:0:0:0:0:0:0:1 - - [03/Dec/2015:10:24:17 +0000] "GET /webappstarter/hello HTTP/1.1" 200 45 http-bio-8080-exec-5 2
