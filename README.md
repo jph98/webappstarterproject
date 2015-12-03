@@ -1,4 +1,4 @@
-Sample CXF Service
+Webapp Starter Project (Servlet 3.0/Tomcat)
 ==================
 
 This is an example Servlet 3.0 project with embedded Tomcat. 
